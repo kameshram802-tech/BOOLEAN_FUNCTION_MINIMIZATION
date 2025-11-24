@@ -59,7 +59,7 @@ RegisterNumber:25017583
 **RTL**
 
 **Timing Diagram**
-<img width="1317" height="366" alt="Screenshot 2025-11-18 200755" src="https://github.com/user-attachments/assets/82e32f82-152c-47c2-b1e7-551462b7b5d5" />
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/1dd297c5-91ce-4181-bdb9-57d4489fccbd" />
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
